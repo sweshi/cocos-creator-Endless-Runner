@@ -1,0 +1,23 @@
+{
+  "actualPlatform": "android",
+  "apiLevel": "",
+  "appABIs": [
+    "arm64-v8a",
+    "x86",
+    "armeabi-v7a"
+  ],
+  "buildPath": "./build",
+  "debug": false,
+  "embedWebDebugger": false,
+  "keystoreAlias": "",
+  "keystoreAliasPassword": "",
+  "keystorePassword": "",
+  "keystorePath": "",
+  "platform": "android",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "sourceMaps": false,
+  "template": "default",
+  "useDebugKeystore": true,
+  "vsVersion": "auto"
+}
